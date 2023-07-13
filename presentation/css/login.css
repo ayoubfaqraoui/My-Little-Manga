@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: rgb(7, 7, 7);
+} 
+
+.row {
+    background-color: white;
+
+}
+.btn1{
+    border: none;
+    outline: none;
+    height: 40px;
+    width: 150px;
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.btn1:hover{
+
+    background:white;
+    border:1px solid;
+    color:black;
+}
+
+
+.logo{
+    width: 200px;
+    padding-bottom: 50px;
+  
+ }
+
+.container {
+    box-sizing: border-box;
+}
+.alert
+{
+color: red;
+padding: 10px;
+width: 250px;
+
+}
+
+ 
+
+
